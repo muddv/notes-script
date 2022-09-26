@@ -1,4 +1,5 @@
-A small script that helps to create Markdown notes quickly, made for ease of note organizing.
+Bash script for creating md notes with a sensible naming convention quckly.
+
 Script adds current date in front of the name of the file and replaces spaces with "-" for ease of navigation:
 %d-%m-%y-word1-word2-word3.md
 
